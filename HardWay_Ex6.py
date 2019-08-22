@@ -14,7 +14,7 @@ print(f"I also said: '{y}'") # String inside a string
 hilarious = False
 
 joke_evaluation = "Isn't that joke so funny?! {}"
-
+# con el .format puedes llenar con cualquier {} variable embebida, solo aguas con el formato
 print(joke_evaluation.format(hilarious))
 
 w = "This is the left side of..."
