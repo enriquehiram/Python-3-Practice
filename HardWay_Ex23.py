@@ -1,5 +1,5 @@
 import sys
-script, enconding, error = sys.argv
+script, encoding, error = sys.argv
 
 
 def main(language_file, encoding, errors):
